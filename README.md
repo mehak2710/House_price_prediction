@@ -37,5 +37,4 @@ The app trains a machine learning model on the dataset during runtime and delive
 
 4. **Data Consistency Check**
    Ensures smooth alignment between dataset columns and user input for accurate predictions.
---
-If you want, I can also create a **LinkedIn post**, a **GitHub profile highlight**, or a **resume description** for this project.
+
